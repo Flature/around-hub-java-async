@@ -4,31 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2dfb892-6b93-456a-bb88-b0cefa208199" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/studio/aroundhub/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/studio/aroundhub/callback/CallbackSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/studio/aroundhub/callback/FunctionalCallbackSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/studio/aroundhub/racecondition/CounterWorker1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/studio/aroundhub/racecondition/CounterWorker2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/studio/aroundhub/racecondition/CounterWorker3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/studio/aroundhub/racecondition/CounterWorker4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/studio/aroundhub/racecondition/RaceConditionSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/studio/aroundhub/racecondition/Shared.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/studio/aroundhub/racecondition/Worker1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/studio/aroundhub/racecondition/Worker2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/studio/aroundhub/racecondition/Worker3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/studio/aroundhub/racecondition/Worker4.java" afterDir="false" />
+    <list default="true" id="b2dfb892-6b93-456a-bb88-b0cefa208199" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/studio/aroundhub/callback/CompletableFutureSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/studio/aroundhub/callback/FutureSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/studio/aroundhub/callback/FutureTaskSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/studio/aroundhub/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/studio/aroundhub/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +41,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="studio.aroundhub.racecondition" />
@@ -99,8 +81,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667630102240</updated>
-      <workItem from="1667630103636" duration="4553000" />
+      <workItem from="1667630103636" duration="4921000" />
+      <workItem from="1667635752744" duration="2584000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1667635713804</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667635713804</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,5 +107,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
